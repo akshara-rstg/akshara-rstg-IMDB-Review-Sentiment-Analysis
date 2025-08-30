@@ -1,7 +1,6 @@
 # Sentiment Analysis on IMDb Reviews 
 
-This project focuses on building a **Sentiment Analysis** system using IMDb reviews. The dataset contains 50,000 reviews labeled as positive or negative.  
-We experimented with multiple Machine Learning models and compared their performance.
+This project focuses on building a **Sentiment Analysis** system using IMDb reviews. The dataset contains 50,000 reviews labeled as positive or negative. We experimented with multiple Machine Learning models and compared their performance.
 
 ##  Project Overview
 
