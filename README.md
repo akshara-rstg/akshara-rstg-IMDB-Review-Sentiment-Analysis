@@ -40,10 +40,6 @@ We experimented with multiple Machine Learning models and compared their perform
 
 **Best Model:** **Voting Classifier (Ensemble)**
 
-##  Confusion Matrices
-
-Confusion matrices for each classifier are plotted and saved in the `plots/` folder.
-
 ##  Future Improvements
 
 - Try **Deep Learning (LSTMs / Transformers like BERT)**
