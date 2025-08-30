@@ -5,7 +5,7 @@ This project focuses on building a **Sentiment Analysis** system using IMDb revi
 ##  Project Overview
 
 - **Goal:** Classify movie reviews as **Positive** or **Negative**
-- **Dataset:** IMDb Movie Reviews (50k reviews)
+- **Dataset:** IMDb Movie Reviews (50k reviews). Download IMDB dataset from "https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews"
 - **Tech Stack:**
   - Python 
   - Scikit-learn
