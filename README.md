@@ -8,7 +8,7 @@ We experimented with multiple Machine Learning models and compared their perform
 - **Goal:** Classify movie reviews as **Positive** or **Negative**
 - **Dataset:** IMDb Movie Reviews (50k reviews)
 - **Tech Stack:**
-  - Python 🐍
+  - Python 
   - Scikit-learn
   - NLTK
   - Matplotlib / Seaborn (for visualization)
@@ -49,5 +49,3 @@ Confusion matrices for each classifier are plotted and saved in the `plots/` fol
 - Try **Deep Learning (LSTMs / Transformers like BERT)**
 - Hyperparameter Tuning
 - Handle sarcasm/complex sentiments better
-
-## 📂 Project Structure
